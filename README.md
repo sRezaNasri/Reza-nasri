@@ -21,7 +21,7 @@
 
 ###
 
-<p align="center">Hey There 👋</p>
+<p align="center">Hi Toseh 👋</p>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">My name is Seyed Reza Nasri.<br>I'm from Iran.<br>I am a bachelor's student in professional computer software engineering.<br>Member of the article authors on Zoomg site.<br>Student ID: 40111140893014</p>
+<p align="left">My name is Seyed Reza Nasri.<br>I'm from Iran.<br>I am a bachelor's student in professional computer software engineering from Mashhad Azad University and Has an associate degree in software engineering from Mashhad Azad University.<br>Member of the article authors on Zoomg site.<br>Student ID: 40111140893014</p>
 
 ###
 
